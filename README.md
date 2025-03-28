@@ -1,10 +1,6 @@
 # Research-for-UG-Students
 List of research programs and internships available worldwide.
 
-# Research-for-UG-Students
-
-
-List of research programs and internships available worldwide. <br>
 
 #### This README provides information about various opportunities for students interested in gaining research experience <br>
 Feel free to contribute to this list and share your knowledge as well!
